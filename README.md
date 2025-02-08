@@ -1,0 +1,2 @@
+# R Subsetting Bug
+This repository demonstrates a subtle bug in R related to subsetting data frames using logical AND (&) operations within the indexing brackets.  The unexpected behavior is described in the `bug.R` file and a solution is provided in `bugSolution.R`.
